@@ -1,8 +1,8 @@
 [
         {
           "id": 1,
-          "name": "Leanne Graham",
-          "username": "Bret",
+          "name": "Saurabh Kushwaha",
+          "username": "web3Coding",
           "email": "Sincere@april.biz",
           "address": {
             "street": "Kulas Light",
@@ -14,7 +14,7 @@
               "lng": "81.1496"
             }
           },
-          "phone": "1-770-736-8031 x56442",
+          "phone": "+918840958479 x56442",
           "website": "hildegard.org",
           "company": {
             "name": "Romaguera-Crona",
